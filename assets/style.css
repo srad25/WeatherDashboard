@@ -1,3 +1,17 @@
 .searchArea{
     background-color:black;
 }
+span.severe{
+    padding: 3px;
+    background-color: red;
+}
+
+span.moderate{
+    padding: 3px;
+    background-color: yellow;
+}
+
+span.favorable{
+    padding: 3px;
+    background-color: green;
+}
