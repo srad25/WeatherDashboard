@@ -19,13 +19,6 @@ THEN I am again presented with current and future conditions for that city
 3. Javascript
 4. Bootstrap
 
-## Resources used:
-weathermap.org/api
-
-## View deployed application
-https://srad25.github.io/WeatherDashboard
-https://github.com/srad25/WeatherDashboard
-
 ## Screenshots of application
 #### Front page
 This page is blank until you enter a city name
@@ -35,3 +28,13 @@ This page is blank until you enter a city name
 When a city is entered its forcast appears. The previous search is stored.
 ![alt text](./assets/images/fiveDay.png "pic of weather Dashboard")
 ![alt text](./assets/images/enterCity.png "pic of weather Dashboard")
+
+## Resources used:
+weathermap.org/api
+
+## View deployed application
+https://srad25.github.io/WeatherDashboard
+https://github.com/srad25/WeatherDashboard
+
+#### Contact:
+[srad25](https://www.github.com/srad25)
