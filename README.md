@@ -1,7 +1,6 @@
 # WeatherDashboard
 
-For this project:
-
+## Features:
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -14,10 +13,25 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
+## Technologies Used:
+1. HTML
+2. CSS
+3. Javascript
+4. Bootstrap
 
+## Resources used:
+weathermap.org/api
 
-Resouce:weathermap.org/api
-
+## View deployed application
 https://srad25.github.io/WeatherDashboard
 https://github.com/srad25/WeatherDashboard
-![alt text](./assets/Dashboard.png "pic of weather Dashboard")
+
+## Screenshots of application
+#### Front page
+This page is blank until you enter a city name
+![alt text](./assets/images/cityName.png "pic of weather Dashboard")
+
+#### Forcast page
+When a city is entered its forcast appears. The previous search is stored.
+![alt text](./assets/images/fiveDay.png "pic of weather Dashboard")
+![alt text](./assets/images/enterCity.png "pic of weather Dashboard")
