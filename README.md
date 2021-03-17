@@ -24,7 +24,7 @@ THEN I am again presented with current and future conditions for that city
 This page is blank until you enter a city name
 ![alt text](./assets/images/cityName.png "pic of weather Dashboard")
 
-#### Forcast page
+#### Forecast page
 When a city is entered its forcast appears. The previous search is stored.
 ![alt text](./assets/images/fiveDay.png "pic of weather Dashboard")
 ![alt text](./assets/images/enterCity.png "pic of weather Dashboard")
