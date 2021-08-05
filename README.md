@@ -1,5 +1,8 @@
 # WeatherDashboard
 
+# Description:
+This app allows the user to view the current weather in any named city. The app will also display the next five days forecast so that the user can know the up coming weather in that area and plan accordingly. Previous searches are stored and easily accessed from the search bar.
+
 ## Features:
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
